@@ -1,0 +1,18 @@
+# Rust
+/target
+/Cargo.lock
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# License files
+license.key
